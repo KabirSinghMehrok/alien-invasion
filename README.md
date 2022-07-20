@@ -7,7 +7,7 @@ Level-based single player shooting game created using Python and Pygame
 
 ## Installation and Run
 After downloading the dependencies, download the source code of this repository or Clone the repository in your system using git. Afterwards, navigate to the source code folder and type the following:
-`python3 al1.py`
+`python3 main.py`
 
 ## Gameplay
 Alien Invasion is a single player shooter game, where you take the role of a spaceship pilot, and you have to successively defeat alien hordes by shooting them down.
